@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**simon1728/simon1728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:efebeb,100:171111&height=120&text=XVV5K&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
