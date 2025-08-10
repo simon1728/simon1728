@@ -1,9 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:efebeb,100:171111&height=120&text=XVV5K&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/simon1728/count.svg?"  />
-</div>
 
 ###
 
