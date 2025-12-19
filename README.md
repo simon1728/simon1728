@@ -1,13 +1,3 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:efebeb,100:171111&height=120&text=XVV5K&animation=twinkling&fontColor=ffffff&fontSize=40" />
-    </div>
-
-###
-
-<h2 align="left">Im Simon</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simon1728&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=simon1728&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
